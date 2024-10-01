@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color: blueviolet;
+    background-image:linear-gradient(pink,purple);
     color: black;
     display: flex;
     padding: 24px 0;
@@ -7,13 +7,13 @@
 
 
 .section1{
-    background-color: aqua;
+    background-image:linear-gradient(purple,rgb(212, 166, 174));
     padding: 100px;
 
 }
 
 .section2{
-    background-color: aquamarine;
+    background-image:linear-gradient(rgb(212, 166, 174),purple);
     padding: 100px;
 }
 
